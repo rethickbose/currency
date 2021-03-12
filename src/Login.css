@@ -1,0 +1,28 @@
+.loform {
+    background-color: #89ABE3FF;
+    height: 100vh;
+    padding-left: 500px;
+    padding-top: 100px;
+}
+
+.loorm {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #FCF6F5FF;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    height: 350px;
+    width: 450px;
+    padding: 10px;
+    border-radius: 7%;
+}
+
+.head {
+    padding: 2rem;
+}
+
+.buttosk {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
